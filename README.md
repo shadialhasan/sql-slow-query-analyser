@@ -1,5 +1,8 @@
 # ⏱️ sql-slow-query-analyser
 
+> **Topics:** `mysql` `slow-query-log` `sql-optimization` `index-advisor` `database-performance` `mariadb` `dba`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/sql-slow-query-analyser/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Database: MySQL / MariaDB](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB-blue.svg)](https://mysql.com)

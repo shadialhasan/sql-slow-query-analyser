@@ -1,0 +1,12 @@
+{
+  "description": "MySQL slow query log analyzer grouping bottleneck queries and recommending composite index optimizations",
+  "topics": [
+    "mysql",
+    "slow-query-log",
+    "sql-optimization",
+    "index-advisor",
+    "database-performance",
+    "mariadb",
+    "dba"
+  ]
+}
