@@ -3,12 +3,12 @@
 > **Topics:** `mysql` `slow-query-log` `sql-optimization` `index-advisor` `database-performance` `mariadb` `dba`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/sql-slow-query-analyser/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/sql-slow-query-analyser/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Database: MySQL / MariaDB](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB-blue.svg)](https://mysql.com)
-[![CI / CD](https://github.com/MobileConduit/sql-slow-query-analyser/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/sql-slow-query-analyser/actions)
+[![CI / CD](https://github.com/shadialhasan/sql-slow-query-analyser/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/sql-slow-query-analyser/actions)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://python.org)
-[![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/MobileConduit)
+[![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/shadialhasan)
 
 High-performance log analyzer parsing multi-gigabyte MySQL and MariaDB slow query logs, aggregating offending queries by execution footprint, applying threshold filters, generating automated composite index recommendations, and exporting reports to JSON and CSV.
 
@@ -82,7 +82,7 @@ flowchart TD
 
 Clone the repository:
 ```bash
-git clone https://github.com/MobileConduit/sql-slow-query-analyser.git
+git clone https://github.com/shadialhasan/sql-slow-query-analyser.git
 cd sql-slow-query-analyser
 ```
 
@@ -174,7 +174,7 @@ The test suite validates:
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
